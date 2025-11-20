@@ -25,11 +25,11 @@
 
 <p align="center">
   <a href="https://codeforces.com/profile/Kishan_koundinya">
-    <img height="320" src="https://codeforces-readme-stats.vercel.app/api/card?username=Kishan_koundinya&theme=github_dark&force_username=true&border_color=404040" alt="Codeforces Stats"/>
+    <img height="300" src="https://codeforces-readme-stats.vercel.app/api/card?username=Kishan_koundinya&theme=github_dark&force_username=true&border_color=404040" alt="Codeforces Stats"/>
   </a>
 
   <a href="https://leetcode.com/u/Kishankoundinya/">
-    <img height="320" src="https://leetcard.jacoblin.cool/Kishankoundinya?theme=dark&font=Ubuntu&cache=14400&ext=contest" alt="Leetcode Stats"/>
+    <img height="300" src="https://leetcard.jacoblin.cool/Kishankoundinya?theme=dark&font=Ubuntu&cache=14400&ext=contest" alt="Leetcode Stats"/>
   </a>
 </p>
 
